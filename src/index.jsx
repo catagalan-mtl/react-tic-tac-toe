@@ -8,6 +8,6 @@ const root = createRoot(document.getElementById("root"));
 root.render(
   <StrictMode>
     <App />
-    <h1>"Here we go</h1>"
+    <h1>Here we go...</h1>
   </StrictMode>
 );
